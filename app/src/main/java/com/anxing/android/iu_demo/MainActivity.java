@@ -88,6 +88,7 @@ public class MainActivity extends FragmentActivity implements OnClickListener {
                 clickMoreBtn();
                 break;
             case R.id.toggle_btn:
+                clickToggleBtn();
                 break;
         }
     }
